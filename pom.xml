@@ -42,7 +42,7 @@
         <dependency>
             <groupId>com.konghq</groupId>
             <artifactId>unirest-objectmapper-jackson</artifactId>
-            <version>3.11.09</version>
+            <version>3.14.1</version>
         </dependency>
         <dependency>
             <groupId>com.konghq</groupId>
